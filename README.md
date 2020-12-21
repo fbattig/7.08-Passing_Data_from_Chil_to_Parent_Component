@@ -1,2 +1,2 @@
-# 7.08-Passing_Data_from_Chil_to_Parent_Component
+# 7.06-Creating_HOC-Function_called_with_Donation_Color
 Created with CodeSandbox
